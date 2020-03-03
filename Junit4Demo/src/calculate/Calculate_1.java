@@ -15,7 +15,8 @@ public class Calculate_1 {
  
     public int divide(int a, int b) {
         // 这里只是最简单的测试demo
-        return a / b;
+        int c = a/b;
+        return c;
     }
 
 }
